@@ -1,35 +1,20 @@
 # keyhunt
 
-Tool for hunt privatekeys for crypto currencies that use secp256k1  elliptic curve
-
-Post: https://bitcointalk.org/index.php?topic=5322040.0
-
+keyhunt
+ETH/BTC Private keys hunter
 Work for Bitcoin
-- address compress or uncompress
-- hashes rmd160 compress or uncompress
-- publickeys compress or uncompress
+Address/rmd160 hashes/PubKeys(Compressed/Uncompressed)
 
 Work for Ethereum
-- address
+address
 
-## Free Code
-
-This code is free of charge, see the licence for more details. https://github.com/albertobsd/keyhunt/blob/main/LICENSE
-
-This is a hobby for me but is still a lot of work.
-https://github.com/albertobsd/keyhunt#donations
-
-
-## For regulars users
-
-Please read the CHANGELOG.md to see the new changes
 
 # Download
 
 To clone the repository:
 
 ```
-git clone https://github.com/albertobsd/keyhunt.git
+git clone https://github.com/CryptoXploit/Keyhunt/keyhunt.git
 ```
 
 don't forget change to the keyhunt directory
