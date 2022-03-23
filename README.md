@@ -1211,7 +1211,7 @@ to test the functionality of ethereum you can use the sample file `tests/1to32.e
 command: 
 
 ```
-./keyhunt -c eth -f tests/1to32.eth -r 1:100000000 -M
+./keyhunt -c eth -f tests/1to20.eth -r 1:100000000 -M
 ```
 
 output:
@@ -1221,7 +1221,7 @@ output:
 [+] Setting search for ETH adddress.
 [+] Matrix screen
 [+] Stride : 1
-[+] Opening file tests/1to32.eth
+[+] Opening file tests/1to20.eth
 [+] N = 0x100000000
 [+] Range
 [+] -- from : 0x1
