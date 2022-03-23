@@ -1153,7 +1153,7 @@ The minikey are generated from a 16 byte buffer using the base58 encode funtion 
 Command example:
 
 ```
-./keyhunt -m minikeys -f minkey_h160.txt -C SG64GZqySYwBm9KxE1wJ28 -n 0x10000
+./keyhunt -m minikeys -f tests/minikeys.txt -C SG64GZqySYwBm9KxE1wJ28 -n 0x10000
 ```
 
 Output:
@@ -1161,7 +1161,7 @@ Output:
 ```
 [+] Version 0.2.211117 SSE Trick or treat ¡Beta!, developed by AlbertoBSD
 [+] Mode minikeys
-[+] Opening file /home/albertobsd/keyhunt/minkey_h160.txt
+[+] Opening file tests/minikeys.txt
 [+] N = 0x10000
 [+] Base Minikey : SG64GZqySYwBm9KxE1wJ28
 [+] Allocating memory for 61560 elements: 1.17 MB
