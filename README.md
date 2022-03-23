@@ -1180,7 +1180,7 @@ address: 15azScMmHvFPAQfQafrKr48E9MqRRXSnVv
 random minikeys command
 
 ```
-./keyhunt -m minikeys -f ~/keyhunt/minkey_h160.txt -q -R -n 0x1000
+./keyhunt -m minikeys -f tests/minikeys.txt -q -R -n 0x1000
 ```
 
 ```
@@ -1188,7 +1188,7 @@ random minikeys command
 [+] Mode minikeys
 [+] Quiet thread output
 [+] Random mode
-[+] Opening file /home/albertobsd/keyhunt/minkey_h160.txt
+[+] Opening file tests/minikeys.txt
 [+] N = 0x1000
 [+] Allocating memory for 61560 elements: 1.17 MB
 [+] Bloom filter for 61560 elements.
